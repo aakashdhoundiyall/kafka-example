@@ -1,6 +1,6 @@
 # NestJS Kafka Microservices Example
 
-This project demonstrates how to implement communication between a producer (API Gateway) and a consumer microservice using **Kafka** in a **NestJS** monorepo setup.
+This project demonstrates how to implement communication between a producer (API Gateway) and a consumer microservice using **Kafka** in a **NestJS**
 
 ## Project Structure
 
@@ -24,7 +24,7 @@ kafka-example/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aakashdhoundiyall/kafka-example.git
 cd kafka-example
 ```
 
